@@ -6,10 +6,17 @@
 }
 
 <h2>Index</h2>
-<ul>
+<table border="1">
+    <tr>
+        <th>STT</th>
+        <th>Black Site</th>
+    </tr>
+    @foreach (string dataLine in siteCount)
+    {
+        <tr>
+            <td>@dataLine</td>
+        </tr>
+    }
+</table>
 
-@foreach (var dataLine in siteCount)
-{
-    @foreach(string item in dataLine.)
-}
-</ul>
+

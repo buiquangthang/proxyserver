@@ -36,6 +36,7 @@ using System.Collections;
 using System.Collections.Specialized;
 using System.Threading;
 using Org.Mentalis.Proxy;
+using System.Web.Hosting;
 
 namespace Org.Mentalis.Proxy.Http {
 
@@ -45,7 +46,9 @@ public sealed class HttpClient : Client {
 	///<summary>Initializes a new instance of the HttpClient class.</summary>
 	///<param name="ClientSocket">The <see cref ="Socket">Socket</see> connection between this proxy server and the local client.</param>
 	///<param name="Destroyer">The callback method to be called when this Client object disconnects from the local client and the remote server.</param>
-	public HttpClient(Socket ClientSocket, DestroyDelegate Destroyer) : base(ClientSocket, Destroyer) {}
+	public HttpClient(Socket ClientSocket, DestroyDelegate Destroyer) : base(ClientSocket, Destroyer) {
+        BlackList = LoadBlacklist();
+    }
 	///<summary>Gets or sets a StringDictionary that stores the header fields.</summary>
 	///<value>A StringDictionary that stores the header fields.</value>
 	private StringDictionary HeaderFields {
@@ -106,6 +109,42 @@ public sealed class HttpClient : Client {
 			m_HttpQuery = value;
 		}
 	}
+
+    private Array BlackList
+    {
+        get
+        {
+            return m_blacklist;
+        }
+
+        set
+        {
+            if (value == null)
+                throw new ArgumentNullException();
+            m_blacklist = value;
+        }
+    }
+
+    private Array LoadBlacklist()
+    {
+        var dataFile = HostingEnvironment.MapPath("~/App_Data/blacklist.txt");
+        Array SiteCount = null;
+        if (System.IO.File.Exists(dataFile))
+        {
+            SiteCount = System.IO.File.ReadAllLines(dataFile);
+        }
+        return SiteCount;
+    }
+
+    private bool CheckSite(string Query){
+        foreach (string site in BlackList)
+        {
+            var getsite = site.Split(',');
+            if(Query.Contains(getsite[1]))
+                return true;
+        }
+        return false;
+    }
 	///<summary>Starts receiving data from the client connection.</summary>
 	public override void StartHandshake() {
 		try {
@@ -134,12 +173,13 @@ public sealed class HttpClient : Client {
 			return true;
 		}
 	}
+
 	///<summary>Processes a specified query and connects to the requested HTTP web server.</summary>
 	///<param name="Query">A string containing the query to process.</param>
 	///<remarks>If there's an error while processing the HTTP request or when connecting to the remote server, the Proxy sends a "400 - Bad Request" error to the client.</remarks>
 	private void ProcessQuery(string Query) {
 		HeaderFields = ParseQuery(Query);
-		if (HeaderFields == null || !HeaderFields.ContainsKey("Host") || Query.Contains("zing.vn") || Query.Contains("24h.com.vn")) {
+		if (HeaderFields == null || !HeaderFields.ContainsKey("Host") || CheckSite(Query)) {
 			SendBadRequest();
 			return;
 		}
@@ -178,10 +218,12 @@ public sealed class HttpClient : Client {
 			if (HeaderFields.ContainsKey("Proxy-Connection") && HeaderFields["Proxy-Connection"].ToLower().Equals("keep-alive"))
 				DestinationSocket.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.KeepAlive, 1);
 			DestinationSocket.BeginConnect(DestinationEndPoint, new AsyncCallback(this.OnConnected), DestinationSocket);
+            var data = ((IPEndPoint)ClientSocket.RemoteEndPoint).Address.ToString() + "\n" + DestinationEndPoint + "\n" + Query;
+            System.IO.File.AppendAllText(@m_dataFile, data);
 		} catch {
 			SendBadRequest();
 			return;
-		}
+		}    
 	}
 	///<summary>Parses a specified HTTP query into its header fields.</summary>
 	///<param name="Query">The HTTP query string to parse.</param>
@@ -362,6 +404,8 @@ public sealed class HttpClient : Client {
 	private string m_HttpRequestType = "";
 	/// <summary>Holds the POST data</summary>
 	private string m_HttpPost = null;
+    private Array m_blacklist = null;
+    private string m_dataFile = HostingEnvironment.MapPath("~/App_Data/User.txt");
 }
 
 }

@@ -1,0 +1,10 @@
+<MentalisProxy>
+  <Version value="1.0" />
+  <Settings />
+  <Users />
+  <Listeners>
+    <listener type="Org.Mentalis.Proxy.Ftp.FtpListener" value="host:10.0.0.3;int:2345" />
+    <listener type="Org.Mentalis.Proxy.Socks.SocksListener" value="host:10.0.0.3;int:4545;null" />
+    <listener type="Org.Mentalis.Proxy.Http.HttpListener" value="host:10.0.0.3;int:6666" />
+  </Listeners>
+</MentalisProxy>

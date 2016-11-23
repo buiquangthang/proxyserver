@@ -37,7 +37,6 @@ namespace ProxyServer.Controllers
             if (result == "")
             {
                 ViewBag.SiteCount = SiteCount;
-
             }
 
             return View();
@@ -69,8 +68,6 @@ namespace ProxyServer.Controllers
             {
 
                 var dataFile = Server.MapPath("~/App_Data/blacklist.txt");
-
-                //System.IO.File.WriteAllText(@dataFile, userData);
                 var result = "";
                 Array SiteCount = null;
                 if (System.IO.File.Exists(dataFile))

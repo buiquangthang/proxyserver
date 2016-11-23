@@ -1,0 +1,1119 @@
+10.0.0.4
+203.113.160.88:443
+CONNECT www.google.com.vn:443 HTTP/1.1
+Host: www.google.com.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+203.113.160.119:443
+CONNECT www.google.com.vn:443 HTTP/1.1
+Host: www.google.com.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+74.125.68.113:443
+CONNECT ogs.google.com:443 HTTP/1.1
+Host: ogs.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+192.30.253.113:443
+CONNECT github.com:443 HTTP/1.1
+Host: github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+192.30.253.117:443
+CONNECT api.github.com:443 HTTP/1.1
+Host: api.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+192.30.253.116:443
+CONNECT api.github.com:443 HTTP/1.1
+Host: api.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+192.30.253.116:443
+CONNECT api.github.com:443 HTTP/1.1
+Host: api.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+52.5.179.85:443
+CONNECT collector.githubapp.com:443 HTTP/1.1
+Host: collector.githubapp.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+52.72.100.133:443
+CONNECT collector.githubapp.com:443 HTTP/1.1
+Host: collector.githubapp.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT camo.githubusercontent.com:443 HTTP/1.1
+Host: camo.githubusercontent.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT camo.githubusercontent.com:443 HTTP/1.1
+Host: camo.githubusercontent.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+151.101.100.133:443
+CONNECT assets-cdn.github.com:443 HTTP/1.1
+Host: assets-cdn.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+210.211.126.88:443
+CONNECT adi.admicro.vn:443 HTTP/1.1
+Host: adi.admicro.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+203.113.160.119:443
+CONNECT www.google.com.vn:443 HTTP/1.1
+Host: www.google.com.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+210.211.126.86:80
+GET http://kenh14.vn/ HTTP/1.1
+Host: kenh14.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://www.google.com.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __RC=39; __R=2; __UF=-1; __uif=__uid%3A3099125111963127513%7C__ui%3A-1%7C__create%3A1479912511; __tb=0; __IP=1963127513; ming_key=
+
+10.0.0.4
+210.211.126.88:80
+GET http://kenh14cdn.com/web_js/kenh14flat-20161123v1.min.js HTTP/1.1
+Host: kenh14cdn.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.81:80
+GET http://mingid.mediacdn.vn/js/mingid_core.js HTTP/1.1
+Host: mingid.mediacdn.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/cpc/tvcads/files/others/player/pluginadmicro/adm_list_video_new.js HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://kenh14cdn.com/web_font/SFD-SemiBold.woff2 HTTP/1.1
+Host: kenh14cdn.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Origin: http://kenh14.vn
+Accept: */*
+Referer: http://kenh14cdn.com/web_css/kenh14flat-20161117v1.min.css
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Thu, 29 Sep 2016 03:19:19 GMT
+
+10.0.0.4
+210.211.126.88:80
+GET http://kenh14cdn.com/web_font/SFD-Bold.woff2 HTTP/1.1
+Host: kenh14cdn.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Origin: http://kenh14.vn
+Accept: */*
+Referer: http://kenh14cdn.com/web_css/kenh14flat-20161117v1.min.css
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Thu, 29 Sep 2016 03:19:22 GMT
+
+10.0.0.4
+210.211.126.88:80
+GET http://kenh14cdn.com/web_font/SFD-Medium.woff2 HTTP/1.1
+Host: kenh14cdn.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Origin: http://kenh14.vn
+Accept: */*
+Referer: http://kenh14cdn.com/web_css/kenh14flat-20161117v1.min.css
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Thu, 29 Sep 2016 03:19:22 GMT
+
+10.0.0.4
+23.77.202.8:80
+GET http://b.scorecardresearch.com/b?c1=2&c2=17793284&ns__t=1479912613025&ns_c=UTF-8&cv=3.1&c8=K%C3%AAnh%20tin%20t%E1%BB%A9c%20gi%E1%BA%A3i%20tr%C3%AD%20-%20X%C3%A3%20h%E1%BB%99i%20-%20Kenh14.vn&c7=http%3A%2F%2Fkenh14.vn%2F&c9=https%3A%2F%2Fwww.google.com.vn%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1D123a2011021421bb3b6c41478876319; UIDR=1478876319
+
+10.0.0.4
+222.255.27.179:80
+GET http://sharefb.channelvn.net/?urls=http://kenh14.vn/news-20161121182329043.chn,http://kenh14.vn/news-20161121212453088.chn,http://kenh14.vn/news-20161122122910059.chn HTTP/1.1
+Host: sharefb.channelvn.net
+Proxy-Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://kenh14.vn
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.120:80
+GET http://lg1.logging.admicro.vn/_cpm4k.js?&lsn=1479912613057&ce=1&lc=39&cr=1479912511&ui=3099125111963127513 HTTP/1.1
+Host: lg1.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __C=39_1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __NM=-1
+
+10.0.0.4
+74.125.200.101:443
+CONNECT www.google-analytics.com:443 HTTP/1.1
+Host: www.google-analytics.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+222.255.27.120:80
+GET http://lg1.logging.admicro.vn/_tracking1.gif?dg=50265298b79fca9533f63393e1674c5f&fl=23.0.r0&je=0&sr=1366x768&sc=24&hn=kenh14.vn&p=%2F&r=https%3A%2F%2Fwww.google.com.vn%2F&cat=%2Fhome%2F&g=0&i=s%3B1479912613057%3B0%3B0%3B0%3B0%3B0%3B942x468%3B0%3B1%3B81c12f13f57e13003385ebaf89745eaf%3B50265298b79fca9533f63393e1674c5f&rdm=0.24244477108431628&ce=1&lc=39&cr=1479912511&ui=3099125111963127513 HTTP/1.1
+Host: lg1.logging.admicro.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __NM=-1; __C=39_1479912614
+
+10.0.0.4
+23.77.202.8:80
+GET http://b.scorecardresearch.com/b?c1=8&c2=17793284&c3=88864&ns__t=1479912613570&ns_c=UTF-8&cv=3.1&c8=K%C3%AAnh%20tin%20t%E1%BB%A9c%20gi%E1%BA%A3i%20tr%C3%AD%20-%20X%C3%A3%20h%E1%BB%99i%20-%20Kenh14.vn&c7=http%3A%2F%2Fkenh14.vn%2F&c9=https%3A%2F%2Fwww.google.com.vn%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1D123a2011021421bb3b6c41478876319; UIDR=1478876319
+
+10.0.0.4
+192.30.253.116:443
+CONNECT api.github.com:443 HTTP/1.1
+Host: api.github.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+222.255.27.85:80
+GET http://pson.logging.admicro.vn/dmtb?h=3099125111963127513&p=ssp&zid=254&loc=39 HTTP/1.1
+Host: pson.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __NM=-1; __C=39_1479912614
+
+10.0.0.4
+222.255.27.195:80
+GET http://quizz.kenh14.vn/services/NewBoxQuizK14Flat.ashx?top=3 HTTP/1.1
+Host: quizz.kenh14.vn
+Proxy-Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://kenh14.vn
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.51:80
+GET http://s.afamily.vn/Handlers/EmbedHandler.ashx?callback=jQuery172023314197340088616_1479912612210&command=homenew&catId=70&_=1479912614075 HTTP/1.1
+Host: s.afamily.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.195:80
+GET http://s.soha.vn/Services/GetEmbedData.ashx?Top=3&ImageWidth=210&ImageHeight=131&Type=4&callback=jQuery172023314197340088616_1479912612211&_=1479912614076 HTTP/1.1
+Host: s.soha.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.51:80
+GET http://s.kenh14.vn/Handler/GetExtendParamSocial.ashx?c=adtechviewcountgetlist&from=Home+k14Flat&lstNewsIds=20161121182329043%3B20161121212453088%3B20161122122910059%3B20161122185110832%3B20161122141930486%3B20161123140132356%3B20161123015351714%3B20161122220134122 HTTP/1.1
+Host: s.kenh14.vn
+Proxy-Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://kenh14.vn
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.51:80
+GET http://s.kenh14.vn/Handler/RequestHandlers.ashx?c=brandcontentbynewsids&newsIds=%2720161123210711218%2C20161123212745174%2C20161123175248534%2C20161123113811173%2C20161123185621932%2C20161121182329043%2C20161121182329043%2C20161121212453088%2C20161122122910059%2C20161123182000836%2C20161123115809493%2C20161123093419216%2C20161123111641842%2C20161122141930486%2C20161123121901336%2C20161123193958747%2C20161122172617092%2C20161123163332491%2C20161123175610442%2C20161123185739229%2C20161123140030206%2C20161123182739985%2C20161123115857135%2C20161123143344245%2C20161123125554034%2C2016112317020939%2C20161123160003477%2C20161123153525144%2C20161123155553622%27 HTTP/1.1
+Host: s.kenh14.vn
+Proxy-Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://kenh14.vn
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+123.30.247.116:8080
+GET http://news.admicro.vn:8080/nb?b=3&u=3099125111963127513&f=0&d=0 HTTP/1.1
+Host: news.admicro.vn:8080
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.35:443
+CONNECT oauth.vietid.net:443 HTTP/1.1
+Host: oauth.vietid.net:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+222.255.27.85:80
+GET http://pson.logging.admicro.vn/dmtb?h=3099125111963127513&u=http%3A%2F%2Fkenh14.vn%2F&p=ballon&zid=2427&n=0,902&loc=39 HTTP/1.1
+Host: pson.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __NM=-1; __C=39_1479912614
+
+10.0.0.4
+74.125.200.138:443
+CONNECT clients1.google.com:443 HTTP/1.1
+Host: clients1.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/adn/2016/10/g11-adx58351950f1f0a.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/adn/2016/10/g10-adx5835184ebc6aa.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/adn/2016/11/1-adx58315e0bd7557.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/adn/2016/11/3-adx58315f2d75b3f.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/adn/2016/11/5-adx58315fcb281e3.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.120:80
+GET http://lg1.logging.admicro.vn/cpx?dmn=http%3A%2F%2Fkenh14.vn%2F&tpn=1&cmpg=1047778&items=381598&zid=35871&cid=-1&lsn=1479912613057&ce=1&lc=39&cr=1479912511&ui=3099125111963127513&admrd=0.6597321722886496 HTTP/1.1
+Host: lg1.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __C=39_1479912614; __NM=-1
+
+10.0.0.4
+222.255.27.87:443
+CONNECT media1.admicro.vn:443 HTTP/1.1
+Host: media1.admicro.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+222.255.27.87:443
+CONNECT media1.admicro.vn:443 HTTP/1.1
+Host: media1.admicro.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+222.255.27.87:443
+CONNECT media1.admicro.vn:443 HTTP/1.1
+Host: media1.admicro.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+222.255.27.120:80
+GET http://lg1.logging.admicro.vn/ct?t=6&lsn=1479912613057&dmn=kenh14.vn&path=http%3A%2F%2Fkenh14.vn%2F HTTP/1.1
+Host: lg1.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __C=39_1479912614; __NM=-1
+
+10.0.0.4
+222.255.27.85:80
+GET http://pson.logging.admicro.vn/dmtb?h=3099125111963127513&p=ssp&zid=255&loc=39 HTTP/1.1
+Host: pson.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __C=39_1479912614; __NM=-1
+
+10.0.0.4
+222.255.27.85:80
+GET http://pson.logging.admicro.vn/dmtb?h=3099125111963127513&p=ssp&zid=256&loc=39 HTTP/1.1
+Host: pson.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __C=39_1479912614; __NM=-1
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/adn/2016/10/e1-adx57f4bd107be35.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/banners/nam2015/4763/DisneyMoana/2071116/300x500/up/Moana_300x500_v2.html?url=%2F%2Flg1.logging.admicro.vn%2Fcpx%3Fcov%3D1%26tpn%3D1%26dmn%3Dhttp%253A%252F%252Fkenh14.vn%252F%26cmpg%3D1080854%26items%3D397130%26zid%3D50%26cid%3D-1%26lsn%3D1479912613057%26ce%3D1%26lc%3D39%26cr%3D1479912511%26ui%3D3099125111963127513%26re%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DCrDVsrIixdw&admid=ads_zone50_banner397130 HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.87:80
+GET http://media1.admicro.vn/adn/sponsorzone_13630_2.js HTTP/1.1
+Host: media1.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.85:80
+GET http://pson.logging.admicro.vn/psmc?i=2829,546,549&z=v1 HTTP/1.1
+Host: pson.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Origin: http://kenh14.vn
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://viewplus.admicro.vn/booking/data/2016/11/crop_180x150_1479095108EQHIi_cdf1a61541b17090273d0b3f4eb00485.jpg HTTP/1.1
+Host: viewplus.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.81:80
+GET http://viewplus.admicro.vn/booking/data/2015/04/crop_291x173_180_1428400708_CA4_images.jpg HTTP/1.1
+Host: viewplus.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://viewplus.admicro.vn/booking/data/2015/04/crop_280x130_1428400547log_XKyPz_1428400519_HP3_box-q-11393929900.jpg HTTP/1.1
+Host: viewplus.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.87:80
+GET http://media1.admicro.vn/ads_codes/ads_code_54.ads HTTP/1.1
+Host: media1.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/adn/utmswiss.woff HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Origin: http://kenh14.vn
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.87:80
+GET http://media1.admicro.vn/core/cpc/57.js HTTP/1.1
+Host: media1.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/cpc/ssvimg/2016/10/-57e4-57feffe9a7824.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/cpc/ssvimg/2016/10/14773-580eed5d39f3a.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/cpc/ssvimg/2016/10/untit-57feef50c0ded.png HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+210.211.126.88:80
+GET http://adi.admicro.vn/adt/cpc/ssvimg/2016/09/-57e4f75fd12ae.jpg HTTP/1.1
+Host: adi.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+222.255.27.87:80
+GET http://media1.admicro.vn/ads_codes/ads_code_490.ads HTTP/1.1
+Host: media1.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: */*
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+10.0.0.4
+203.113.160.119:443
+CONNECT www.google.com.vn:443 HTTP/1.1
+Host: www.google.com.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+203.113.160.119:443
+CONNECT www.google.com.vn:443 HTTP/1.1
+Host: www.google.com.vn:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+184.85.113.19:443
+CONNECT fpdownload.adobe.com:443 HTTP/1.1
+Host: fpdownload.adobe.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+184.85.113.19:443
+CONNECT fpdownload.adobe.com:443 HTTP/1.1
+Host: fpdownload.adobe.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+74.125.200.94:443
+CONNECT www.gstatic.com:443 HTTP/1.1
+Host: www.gstatic.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+
+10.0.0.4
+222.255.27.85:80
+GET http://lg1.logging.admicro.vn/_tracking1.gif?dg=50265298b79fca9533f63393e1674c5f&fl=23.0.r0&je=0&sr=1366x768&sc=24&hn=kenh14.vn&p=%2F&r=https%3A%2F%2Fwww.google.com.vn%2F&cat=%2Fhome%2F&g=0&i=p%3B1479912613057%3B0%3B0%3B0%3B0%3B0%3B942x468%3B0%3B1%3B81c12f13f57e13003385ebaf89745eaf%3B50265298b79fca9533f63393e1674c5f&ce=1&lc=39&cr=1479912511&ui=3099125111963127513 HTTP/1.1
+Host: lg1.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __C=39_1479912614; __NM=-1
+
+10.0.0.4
+74.125.200.113:443
+CONNECT clients4.google.com:443 HTTP/1.1
+Host: clients4.google.com:443
+Proxy-Connection: keep-alive
+User-Agent: Chrome WIN 54.0.2840.99 (7eca4ce1e662f12cadaf96c30cd2335fd03e7140-refs/branch-heads/2840@{#830}) channel(stable)
+
+10.0.0.5
+54.201.239.157:443
+CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: incoming.telemetry.mozilla.org:443
+
+10.0.0.5
+125.235.4.59:80
+GET http://thannhnien.vn/ HTTP/1.1
+Host: thannhnien.vn
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+10.0.0.5
+74.125.200.138:80
+GET http://google.com/ HTTP/1.1
+Host: google.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cookie: NID=91=Is-Demd_bbqBxIUSlo8lnuqEXPoi4Nz3dDMKSswI6drWmeA_33ZoJjfePcLlBt3bXWn7FbOurHHhuOXOM19JH-1wL5iAPMgvlYTGgHaa_HxRoEyeQWMcl_RqigcmDmlm
+Connection: keep-alive
+
+10.0.0.5
+203.113.160.119:443
+CONNECT www.google.com.vn:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: www.google.com.vn:443
+
+10.0.0.5
+54.182.2.151:443
+CONNECT tiles-cloudfront.cdn.mozilla.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles-cloudfront.cdn.mozilla.net:443
+
+10.0.0.5
+54.182.2.151:443
+CONNECT tiles-cloudfront.cdn.mozilla.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles-cloudfront.cdn.mozilla.net:443
+
+10.0.0.5
+54.182.2.151:443
+CONNECT tiles-cloudfront.cdn.mozilla.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles-cloudfront.cdn.mozilla.net:443
+
+10.0.0.5
+54.182.2.151:443
+CONNECT tiles-cloudfront.cdn.mozilla.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles-cloudfront.cdn.mozilla.net:443
+
+10.0.0.5
+54.182.2.151:443
+CONNECT tiles-cloudfront.cdn.mozilla.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles-cloudfront.cdn.mozilla.net:443
+
+10.0.0.5
+54.182.2.151:443
+CONNECT tiles-cloudfront.cdn.mozilla.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles-cloudfront.cdn.mozilla.net:443
+
+10.0.0.5
+74.125.68.94:443
+CONNECT ssl.gstatic.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: ssl.gstatic.com:443
+
+10.0.0.5
+74.125.200.94:443
+CONNECT www.gstatic.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: www.gstatic.com:443
+
+10.0.0.5
+216.58.203.238:443
+CONNECT apis.google.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: apis.google.com:443
+
+10.0.0.5
+203.113.160.108:443
+CONNECT www.google.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: www.google.com:443
+
+10.0.0.5
+52.34.245.108:443
+CONNECT tiles.services.mozilla.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles.services.mozilla.com:443
+
+10.0.0.5
+54.182.2.151:443
+CONNECT tiles-cloudfront.cdn.mozilla.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tiles-cloudfront.cdn.mozilla.net:443
+
+10.0.0.5
+31.13.78.35:80
+GET http://facebook.com/favicon.ico HTTP/1.1
+Host: facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+10.0.0.5
+172.217.24.110:443
+CONNECT www.youtube.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: www.youtube.com:443
+
+10.0.0.5
+74.125.68.94:443
+CONNECT fonts.gstatic.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: fonts.gstatic.com:443
+
+10.0.0.5
+74.125.200.102:443
+CONNECT s.ytimg.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: s.ytimg.com:443
+
+10.0.0.5
+74.125.130.138:443
+CONNECT i.ytimg.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: i.ytimg.com:443
+
+10.0.0.5
+74.125.200.132:443
+CONNECT yt3.ggpht.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: yt3.ggpht.com:443
+
+10.0.0.5
+74.125.130.157:443
+CONNECT pubads.g.doubleclick.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: pubads.g.doubleclick.net:443
+
+10.0.0.5
+216.58.221.66:443
+CONNECT securepubads.g.doubleclick.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: securepubads.g.doubleclick.net:443
+
+10.0.0.5
+74.125.68.132:443
+CONNECT tpc.googlesyndication.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: tpc.googlesyndication.com:443
+
+10.0.0.5
+74.125.200.149:443
+CONNECT s0.2mdn.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: s0.2mdn.net:443
+
+10.0.0.5
+74.125.200.156:443
+CONNECT googleads4.g.doubleclick.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: googleads4.g.doubleclick.net:443
+
+10.0.0.5
+74.125.200.149:443
+CONNECT s0.2mdn.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: s0.2mdn.net:443
+
+10.0.0.5
+216.58.203.226:443
+CONNECT pagead2.googlesyndication.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: pagead2.googlesyndication.com:443
+
+10.0.0.5
+74.125.68.154:443
+CONNECT googleads.g.doubleclick.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: googleads.g.doubleclick.net:443
+
+10.0.0.5
+216.58.221.230:443
+CONNECT static.doubleclick.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: static.doubleclick.net:443
+
+10.0.0.5
+74.125.68.113:443
+CONNECT s.youtube.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: s.youtube.com:443
+
+10.0.0.5
+203.113.161.208:443
+CONNECT r5---sn-8pxuuxa-q5qd.googlevideo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: r5---sn-8pxuuxa-q5qd.googlevideo.com:443
+
+10.0.0.5
+203.113.161.208:443
+CONNECT r5---sn-8pxuuxa-q5qd.googlevideo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: r5---sn-8pxuuxa-q5qd.googlevideo.com:443
+
+10.0.0.5
+74.125.130.148:443
+CONNECT ad.doubleclick.net:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: ad.doubleclick.net:443
+
+10.0.0.5
+216.58.221.77:443
+CONNECT accounts.google.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: accounts.google.com:443
+
+10.0.0.5
+74.125.200.95:443
+CONNECT content.googleapis.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: content.googleapis.com:443
+
+10.0.0.4
+222.255.27.85:80
+GET http://lg1.logging.admicro.vn/_tracking1.gif?dg=50265298b79fca9533f63393e1674c5f&fl=23.0.r0&je=0&sr=1366x768&sc=24&hn=kenh14.vn&p=%2F&r=https%3A%2F%2Fwww.google.com.vn%2F&cat=%2Fhome%2F&g=0&i=p%3B1479912613057%3B0%3B0%3B0%3B0%3B0%3B942x468%3B0%3B1%3B81c12f13f57e13003385ebaf89745eaf%3B50265298b79fca9533f63393e1674c5f&ce=1&lc=39&cr=1479912511&ui=3099125111963127513 HTTP/1.1
+Host: lg1.logging.admicro.vn
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://kenh14.vn/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __uid=3099125111963127513; __create=1479912511; __tb=0; __OS=10_Windows 7_ _ _14_54.0.2840.99; __NM=-1; __C=39_1479912748
+
+10.0.0.5
+74.125.159.7:443
+CONNECT r1---sn-vgqs7nlr.googlevideo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: r1---sn-vgqs7nlr.googlevideo.com:443
+
+10.0.0.5
+52.25.239.122:443
+CONNECT self-repair.mozilla.org:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: self-repair.mozilla.org:443
+

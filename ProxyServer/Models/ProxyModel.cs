@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using Org.Mentalis.Proxy;
 using System.Collections;
+using System.Web.Hosting;
 
 namespace ProxyServer.Models
 {
@@ -12,7 +13,7 @@ namespace ProxyServer.Models
         public static bool Flag = false;
         public Proxy proxy;
         public ProxyModel(){
-            proxy = new Proxy("C:\\Users\\CO\\Desktop\\" + "config.xml");
+            proxy = new Proxy(HostingEnvironment.MapPath("~/App_Data/config.xml"));
         }
         public void StartProxy(string classtype, string host, string port)
         {

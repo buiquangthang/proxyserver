@@ -44,6 +44,7 @@ using Org.Mentalis.Proxy.Socks;
 using Org.Mentalis.Proxy.PortMap;
 using Org.Mentalis.Proxy.Socks.Authentication;
 using Org.Mentalis.Utilities.ConsoleAttributes;
+using System.Web.Hosting;
 
 namespace Org.Mentalis.Proxy {
 	/// <summary>

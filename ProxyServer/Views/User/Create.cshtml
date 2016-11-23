@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create Proxy</h2>
+<form method="post" action="/Proxy/Create">
+    <fieldset>
+        <div>
+            <label for="CompanyName">Type of Proxy:</label>
+            <input type="text" name="type" value="" />
+        </div>
+        <div>
+            <label for="ContactName">Host:</label>
+            <input type="text" name="host" value="" />
+        </div>
+        <div>
+            <label for="Employees">Port:</label>
+            <input type="text" name="port" value="" />
+        </div>
+        <div>
+            <label>&nbsp;</label>
+            <input type="submit" value="Submit" class="submit" />
+        </div>
+    </fieldset>
+</form>
+
